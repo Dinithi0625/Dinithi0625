@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dinithi Nimasha</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dinithi+Nimasha;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
+
 
 ## 🧑‍💻 About Me
 
